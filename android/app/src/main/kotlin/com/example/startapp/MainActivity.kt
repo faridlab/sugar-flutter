@@ -1,4 +1,4 @@
-package com.example.SugarFlutter
+package id.startapp
 
 import io.flutter.embedding.android.FlutterActivity
 
